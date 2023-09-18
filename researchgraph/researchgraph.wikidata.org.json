@@ -1,0 +1,123 @@
+﻿[
+  {
+    "w": {
+"identity": 184,
+"labels": [
+        "organisation",
+        "wikidata"
+      ],
+"properties": {
+"country": "AU",
+"last_updated": "2020-12-19 05:20:22.818000",
+"local_id": "Q1053985",
+"city": "Queensland",
+"latitude": "-23.318055555556",
+"source": "wikidata.org",
+"type": "organisation",
+"isni": "0000000121930854",
+"ror": "023q4bk22",
+"grid": "grid.1023.0",
+"name": "Central Queensland University",
+"lang": "en",
+"key": "wikidata/Q1053985",
+"longitude": "150.51833333333",
+"doi": "10.13039/501100001790"
+      }
+    }
+  },
+  {
+    "w": {
+"identity": 588,
+"labels": [
+        "organisation",
+        "wikidata"
+      ],
+"properties": {
+"country": "AU",
+"last_updated": "2021-01-19 22:26:42.621000",
+"isni": "000000040624193X",
+"local_id": "Q101006687",
+"city": "Wollongong",
+"name": "University of Wollongong Faculty of Science Medicine and Health",
+"source": "wikidata.org",
+"type": "organisation",
+"lang": "en",
+"key": "wikidata/Q101006687",
+      }
+    }
+  },
+  {
+    "w": {
+"identity": 589,
+"labels": [
+        "organisation",
+        "wikidata"
+      ],
+"properties": {
+"country": "AU",
+"last_updated": "2020-12-19 10:59:16.471000",
+"local_id": "Q4800199",
+"city": "Heidelberg",
+"source": "wikidata.org",
+"type": "organisation",
+"isni": "000000047535599X",
+"ror": "052sgg612",
+"grid": "grid.508407.e",
+"name": "Arthur Rylah Institute for Environmental Research",
+"lang": "en",
+"key": "wikidata/Q4800199"
+      }
+    }
+  },
+  {
+    "w": {
+"identity": 592,
+"labels": [
+        "organisation",
+        "wikidata"
+      ],
+"properties": {
+"country": "AU",
+"last_updated": "2020-12-19 08:28:21.871000",
+"local_id": "Q14935650",
+"city": "Bruce",
+"latitude": "-35.25333333",
+"source": "wikidata.org",
+"type": "organisation",
+"isni": "0000000406420284",
+"ror": "041c7s516",
+"grid": "grid.460694.9",
+"name": "Calvary Public Hospital Bruce",
+"lang": "en",
+"key": "wikidata/Q14935650",
+"longitude": "149.09"
+      }
+    }
+  },
+  {
+    "w": {
+"identity": 757,
+"labels": [
+        "organisation",
+        "wikidata"
+      ],
+"properties": {
+"country": "AU",
+"last_updated": "2020-12-18 16:08:26.492000",
+"local_id": "Q892188",
+"city": "Queensland",
+"latitude": "-28.074",
+"source": "wikidata.org",
+"type": "organisation",
+"isni": "0000000404053820",
+"ror": "006jxzx88",
+"grid": "grid.1033.1",
+"name": "Bond University",
+"lang": "en",
+"key": "wikidata/Q892188",
+"longitude": "153.416",
+"doi": "10.13039/501100001789"
+      }
+    }
+  }
+]

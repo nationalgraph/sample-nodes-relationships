@@ -1,0 +1,110 @@
+﻿[
+  {
+    "Researcher": {
+"identity": 103037,
+"labels": [
+        "orcid",
+        "researcher"
+      ],
+"properties": {
+"last_updated": "2019-11-10T22:38:19.475Z",
+"full_name": "David Mccooey",
+"local_id": "0000-0001-8122-4863",
+"last_name": "Mccooey",
+"orcid": "0000-0001-8122-4863",
+"source": "orcid.org",
+"type": "researcher",
+"first_name": "David",
+"key": "orcid/0000-0001-8122-4863",
+"url": "https://orcid.org/0000-0001-8122-4863"
+      }
+    }
+  },
+  {
+    "Researcher": {
+"identity": 48880,
+"labels": [
+        "orcid",
+        "researcher"
+      ],
+"properties": {
+"scopus_author_id": "36571514100",
+"last_updated": "2022-11-29T09:59:24.316Z",
+"full_name": "Rob Cover",
+"local_id": "0000-0002-8815-2126",
+"last_name": "Cover",
+"orcid": "0000-0002-8815-2126",
+"source": "orcid.org",
+"type": "researcher",
+"first_name": "Rob",
+"key": "orcid/0000-0002-8815-2126",
+"url": "https://orcid.org/0000-0002-8815-2126"
+      }
+    }
+  },
+  {
+    "Researcher": {
+"identity": 66593,
+"labels": [
+        "orcid",
+        "researcher"
+      ],
+"properties": {
+"last_updated": "2020-03-23T02:48:37.795Z",
+"full_name": "Rosslyn Prosser",
+"local_id": "0000-0002-9638-3717",
+"last_name": "Prosser",
+"orcid": "0000-0002-9638-3717",
+"source": "orcid.org",
+"type": "researcher",
+"first_name": "Rosslyn",
+"key": "orcid/0000-0002-9638-3717",
+"url": "https://orcid.org/0000-0002-9638-3717"
+      }
+    }
+  },
+  {
+    "Researcher": {
+"identity": 103035,
+"labels": [
+        "orcid",
+        "researcher"
+      ],
+"properties": {
+"scopus_author_id": "57200451186",
+"last_updated": "2022-11-20T06:30:27.103Z",
+"full_name": "Clas Weber",
+"local_id": "0000-0002-9193-6415",
+"last_name": "Weber",
+"orcid": "0000-0002-9193-6415",
+"source": "orcid.org",
+"type": "researcher",
+"first_name": "Clas",
+"key": "orcid/0000-0002-9193-6415",
+"url": "https://orcid.org/0000-0002-9193-6415"
+      }
+    }
+  },
+  {
+    "Researcher": {
+"identity": 71867,
+"labels": [
+        "orcid",
+        "researcher"
+      ],
+"properties": {
+"scopus_author_id": "57192121476",
+"last_updated": "2022-09-11T17:52:37.680Z",
+"full_name": "Peter Aggleton",
+"local_id": "0000-0001-5966-4969",
+"last_name": "Aggleton",
+"orcid": "0000-0001-5966-4969",
+"source": "orcid.org",
+"type": "researcher",
+"first_name": "Peter",
+"key": "orcid/0000-0001-5966-4969",
+"url": "https://orcid.org/0000-0001-5966-4969"
+      }
+    }
+  }
+]

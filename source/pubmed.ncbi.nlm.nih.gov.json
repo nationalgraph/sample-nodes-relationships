@@ -1,0 +1,1407 @@
+{
+    "_id" : "28920558",
+    "MedlineCitation" : {
+        "PMID" : "28920558",
+        "DateCompleted" : {
+            "Year" : "2018",
+            "Month" : "12",
+            "Day" : "26"
+        },
+        "DateRevised" : {
+            "Year" : "2018",
+            "Month" : "12",
+            "Day" : "26"
+        },
+        "Article" : {
+            "Journal" : {
+                "ISSN" : "1744-1706",
+                "JournalIssue" : {
+                    "Volume" : "13",
+                    "Issue" : "10",
+                    "PubDate" : {
+                        "Year" : "2018",
+                        "Month" : "10"
+                    }
+                },
+                "Title" : "Global public health",
+                "ISOAbbreviation" : "Glob Public Health"
+            },
+            "ArticleTitle" : "I shouldn't talk of medicine only: Biomedical and religious frameworks for understanding antiretroviral therapies, their invention and their effects.",
+            "Pagination" : {
+                "MedlinePgn" : "1454-1467"
+            },
+            "ArELocationIDticleTitle" : "10.1080/17441692.2017.1377746",
+            "Abstract" : {
+                "AbstractText" : [ 
+                    "Medical pluralism offers a long-standing means of analysing the different ways in which health and illness can be interpreted and responded to. It is not unusual for multiple health systems and meanings to co-exist at any one moment in time, offering different ways of understanding and responding to illness and disease. In addition to biomedical frameworks, religious beliefs offer another important means of facilitating healing. Based on qualitative interviews with 36 people living with HIV on antiretroviral therapies (ART) in Papua New Guinea (PNG), this paper examines the ways in which people bring together and synthesise religious and biomedical therapeutic approaches to the treatment and management of HIV. For most, ART is viewed as a divine gift to complement a regime of spiritual salvation, and adherence to treatment carries with it strong religious undertones. At the same time, ART provides a sense of hope for those living with a virus that was previously associated only with death. Brought together, these narratives provide important insights into the meanings of ART and the role of religion, prayer and repentance for people in PNG. The study also provides new insight into how people with HIV actively synthesise different approaches to health and healing."
+                ]
+            },
+            "AuthorList" : {
+                "Author" : [ 
+                    {
+                        "AffiliationInfo" : {
+                            "Affiliation" : "b Kirby Institute for Infection and Immunity in Society , UNSW Sydney , Sydney , Australia."
+                        },
+                        "LastName" : "Kelly-Hanku",
+                        "ForeName" : "Angela",
+                        "Initials" : "A"
+                    }, 
+                    {
+                        "AffiliationInfo" : {
+                            "Affiliation" : "c Centre for Social Research in Health , UNSW Sydney , Sydney , Australia."
+                        },
+                        "LastName" : "Aggleton",
+                        "ForeName" : "Peter",
+                        "Initials" : "P",
+                        "Identifier" : "0000-0001-5966-4969"
+                    }, 
+                    {
+                        "AffiliationInfo" : {
+                            "Affiliation" : "e School of Public Health and Community Medicine , UNSW Sydney , Sydney , Australia."
+                        },
+                        "LastName" : "Shih",
+                        "ForeName" : "Patti",
+                        "Initials" : "P",
+                        "Identifier" : "0000-0002-9628-7987"
+                    }
+                ]
+            },
+            "Language" : "eng",
+            "PublicationTypeList" : {
+                "PublicationType" : [ 
+                    "Journal Article", 
+                    "Research Support, Non-U.S. Gov't"
+                ]
+            },
+            "ArticleDate" : {
+                "Year" : "2017",
+                "Month" : "09",
+                "Day" : "16"
+            }
+        },
+        "MedlineJournalInfo" : {
+            "Country" : "England",
+            "MedlineTA" : "Glob Public Health",
+            "NlmUniqueID" : "101256323",
+            "ISSNLinking" : "1744-1692"
+        },
+        "ChemicalList" : {
+            "Chemical" : [ 
+                {
+                    "RegistryNumber" : "0",
+                    "NameOfSubstance" : "Antirheumatic Agents"
+                }
+            ]
+        },
+        "CitationSubset" : [ 
+            "IM"
+        ],
+        "MeshHeadingList" : {
+            "MeshHeading" : [ 
+                {
+                    "DescriptorName" : "Antirheumatic Agents",
+                    "QualifierName" : "therapeutic use"
+                }, 
+                {
+                    "DescriptorName" : "Christianity"
+                }, 
+                {
+                    "DescriptorName" : "Female"
+                }, 
+                {
+                    "DescriptorName" : "HIV Infections",
+                    "QualifierName" : "drug therapy"
+                }, 
+                {
+                    "DescriptorName" : "Humans"
+                }, 
+                {
+                    "DescriptorName" : "Male"
+                }, 
+                {
+                    "DescriptorName" : "Papua New Guinea"
+                }, 
+                {
+                    "DescriptorName" : "Qualitative Research"
+                }, 
+                {
+                    "DescriptorName" : "Religion"
+                }
+            ]
+        },
+        "KeywordList" : {
+            "Keyword" : [ 
+                "Christianity", 
+                "HIV", 
+                "Papua New Guinea", 
+                "medical pluralism"
+            ]
+        }
+    },
+    "PubmedData" : {
+        "History" : {
+            "PubMedPubDate" : [ 
+                {
+                    "Year" : "2017",
+                    "Month" : "9",
+                    "Day" : "19",
+                    "Hour" : "6",
+                    "Minute" : "0"
+                }, 
+                {
+                    "Year" : "2018",
+                    "Month" : "12",
+                    "Day" : "27",
+                    "Hour" : "6",
+                    "Minute" : "0"
+                }, 
+                {
+                    "Year" : "2017",
+                    "Month" : "9",
+                    "Day" : "19",
+                    "Hour" : "6",
+                    "Minute" : "0"
+                }
+            ]
+        },
+        "PublicationStatus" : "ppublish",
+        "ArticleIdList" : {
+            "ArticleId" : [ 
+                "28920558", 
+                "10.1080/17441692.2017.1377746"
+            ]
+        }
+    },
+    "import-source" : "pubmed21n0919.xml",
+    "last-updated" : ISODate("2021-08-03T08:27:33.111Z")
+}
+
+/* 2 */
+{
+    "_id" : "30691166",
+    "MedlineCitation" : {
+        "PMID" : "30691166",
+        "DateCompleted" : {
+            "Year" : "2019",
+            "Month" : "06",
+            "Day" : "04"
+        },
+        "DateRevised" : {
+            "Year" : "2020",
+            "Month" : "02",
+            "Day" : "25"
+        },
+        "Article" : {
+            "Journal" : {
+                "ISSN" : "1422-0067",
+                "JournalIssue" : {
+                    "Volume" : "20",
+                    "Issue" : "3",
+                    "PubDate" : {
+                        "Year" : "2019",
+                        "Month" : "Jan",
+                        "Day" : "26"
+                    }
+                },
+                "Title" : "International journal of molecular sciences",
+                "ISOAbbreviation" : "Int J Mol Sci"
+            },
+            "ArticleTitle" : "Proteomic Analysis of Cyclic Ketamine Compounds Ability to Induce Neural Differentiation in Human Adult Mesenchymal Stem Cells.",
+            "ArELocationIDticleTitle" : "E523",
+            "Abstract" : {
+                "AbstractText" : [ 
+                    "Neural regeneration is of great interest due to its potential to treat traumatic brain injuries and diseases that impact quality of life. Growth factor mediated differentiation can take up to several weeks to months to produce the cell of interest whereas chemical stimulation may be as minimal as a few hours. The smaller time scale is of great clinical relevance. Adipose derived stem cells (ADSCs) were treated for up to 24 h with a novel differentiation media containing the cyclic ketamine compounds to direct neurogenic induction. The extent of differentiation was investigated by proteome changes occurring during the process. The treatments indicated the ADSCs responded favorably to the neurogenic induction media by presenting a number of morphological cues of neuronal phenotype previously seen and a higher cell population post induction compared to previous studies. Furthermore, approximately 3500 proteins were analyzed and identified by mass spectrometric iTRAQ analyses. The bioinformatics analyses revealed hundreds of proteins whose expression level changes were statistically significant and biologically relevant to neurogenesis and annotated as being involved in neurogenic development. Complementing this, the Bioplex cytokine assay profiles present evidence of decreased panel of stress response cytokines and a relative increase in those involved in neurogenesis."
+                ]
+            },
+            "AuthorList" : {
+                "Author" : [ 
+                    {
+                        "AffiliationInfo" : {
+                            "Affiliation" : "CIRIMAT, Paul Sabatier, University of Toulouse 3 (INPT), 118 Route de Narbonne, 31062 Toulouse, France. Jerran.Santos@uts.edu.au."
+                        },
+                        "LastName" : "Santos",
+                        "ForeName" : "Jerran",
+                        "Initials" : "J"
+                    }, 
+                    {
+                        "AffiliationInfo" : {
+                            "Affiliation" : "Advanced Tissue Regeneration & Drug Delivery Group, School of Life Sciences, University of Technology Sydney, P.O. Box 123 Broadway, Ultimo 2007, Australia. Bruce.Milthorpe@uts.edu.au."
+                        },
+                        "LastName" : "Milthorpe",
+                        "ForeName" : "Bruce Kenneth",
+                        "Initials" : "BK",
+                        "Identifier" : "0000-0002-0867-9586"
+                    }, 
+                    {
+                        "AffiliationInfo" : {
+                            "Affiliation" : "Proteomics Core Facility and School of Life Sciences, Faculty of Science, University of Technology Sydney, P.O. Box 123 Broadway, Ultimo 2007, Australia. Matthew.Padula@uts.edu.au."
+                        },
+                        "LastName" : "Padula",
+                        "ForeName" : "Matthew Paul",
+                        "Initials" : "MP",
+                        "Identifier" : "0000-0002-8283-0643"
+                    }
+                ]
+            },
+            "Language" : "eng",
+            "PublicationTypeList" : {
+                "PublicationType" : [ 
+                    "Journal Article"
+                ]
+            },
+            "ArticleDate" : {
+                "Year" : "2019",
+                "Month" : "01",
+                "Day" : "26"
+            }
+        },
+        "MedlineJournalInfo" : {
+            "Country" : "Switzerland",
+            "MedlineTA" : "Int J Mol Sci",
+            "NlmUniqueID" : "101092791",
+            "ISSNLinking" : "1422-0067"
+        },
+        "ChemicalList" : {
+            "Chemical" : [ 
+                {
+                    "RegistryNumber" : "0",
+                    "NameOfSubstance" : "Culture Media"
+                }, 
+                {
+                    "RegistryNumber" : "690G0D6V8H",
+                    "NameOfSubstance" : "Ketamine"
+                }
+            ]
+        },
+        "CitationSubset" : [ 
+            "IM"
+        ],
+        "CommentsCorrectionsList" : {
+            "CommentsCorrections" : [ 
+                {
+                    "RefSource" : "Int J Mol Sci. 2019 Jul 19;20(14):",
+                    "PMID" : "31331064"
+                }
+            ]
+        },
+        "MeshHeadingList" : {
+            "MeshHeading" : [ 
+                {
+                    "DescriptorName" : "Adipose Tissue",
+                    "QualifierName" : "cytology"
+                }, 
+                {
+                    "DescriptorName" : "Cell Differentiation",
+                    "QualifierName" : "drug effects"
+                }, 
+                {
+                    "DescriptorName" : "Cells, Cultured"
+                }, 
+                {
+                    "DescriptorName" : "Culture Media",
+                    "QualifierName" : "chemistry"
+                }, 
+                {
+                    "DescriptorName" : "Gene Expression Regulation",
+                    "QualifierName" : "drug effects"
+                }, 
+                {
+                    "DescriptorName" : "Gene Regulatory Networks",
+                    "QualifierName" : "drug effects"
+                }, 
+                {
+                    "DescriptorName" : "Humans"
+                }, 
+                {
+                    "DescriptorName" : "Ketamine",
+                    "QualifierName" : "pharmacology"
+                }, 
+                {
+                    "DescriptorName" : "Mass Spectrometry"
+                }, 
+                {
+                    "DescriptorName" : "Mesenchymal Stem Cells",
+                    "QualifierName" : "cytology"
+                }, 
+                {
+                    "DescriptorName" : "Neurogenesis"
+                }, 
+                {
+                    "DescriptorName" : "Neurons",
+                    "QualifierName" : "cytology"
+                }, 
+                {
+                    "DescriptorName" : "Proteomics",
+                    "QualifierName" : "methods"
+                }
+            ]
+        },
+        "KeywordList" : {
+            "Keyword" : [ 
+                "adipose", 
+                "adult stem cells", 
+                "cyclic ketamine", 
+                "cytokines", 
+                "neural", 
+                "proteomics"
+            ]
+        }
+    },
+    "PubmedData" : {
+        "History" : {
+            "PubMedPubDate" : [ 
+                {
+                    "Year" : "2018",
+                    "Month" : "12",
+                    "Day" : "10"
+                }, 
+                {
+                    "Year" : "2019",
+                    "Month" : "01",
+                    "Day" : "04"
+                }, 
+                {
+                    "Year" : "2019",
+                    "Month" : "01",
+                    "Day" : "14"
+                }, 
+                {
+                    "Year" : "2019",
+                    "Month" : "1",
+                    "Day" : "30",
+                    "Hour" : "6",
+                    "Minute" : "0"
+                }, 
+                {
+                    "Year" : "2019",
+                    "Month" : "1",
+                    "Day" : "30",
+                    "Hour" : "6",
+                    "Minute" : "0"
+                }, 
+                {
+                    "Year" : "2019",
+                    "Month" : "6",
+                    "Day" : "5",
+                    "Hour" : "6",
+                    "Minute" : "0"
+                }
+            ]
+        },
+        "PublicationStatus" : "epublish",
+        "ArticleIdList" : {
+            "ArticleId" : [ 
+                "30691166", 
+                "ijms20030523", 
+                "10.3390/ijms20030523", 
+                "PMC6387408"
+            ]
+        },
+        "ReferenceList" : {
+            "Reference" : [ 
+                {
+                    "Citation" : "FEBS Lett. 1999 Jul 9;454(3):356-62",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "10431838"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Theriogenology. 1999 May;51(7):1285-96",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "10729092"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "J Neurosci Res. 2000 Aug 15;61(4):364-70",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "10931522"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "J Psychopharmacol. 2000;14(3):238-43",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "11106302"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Neurochem Res. 2000 Dec;25(12):1613-21",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "11152390"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Trends Mol Med. 2001 Jun;7(6):259-64",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "11378515"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Curr Opin Pharmacol. 2002 Feb;2(1):63-8",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "11786310"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Hum Mol Genet. 2002 Nov 1;11(23):2845-54",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "12393796"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Nat Cell Biol. 2002 Dec;4(12):955-62",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "12447386"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "J Neurochem. 2003 Mar;84(5):997-1005",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "12603824"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Ann Neurol. 2003 Sep;54(3):287-96",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "12953261"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Biochem Biophys Res Commun. 1992 Mar 16;183(2):481-6",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "1312831"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Genome Res. 2003 Nov;13(11):2498-504",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "14597658"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "J Cell Biol. 2004 Jan 5;164(1):133-44",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "14699089"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Mol Cell Neurosci. 2004 Jan;25(1):69-82",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "14962741"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "J Biol Chem. 2004 Jun 18;279(25):26645-53",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "15033986"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "J Invest Dermatol. 2004 Oct;123(4):xiv-xv",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "15373799"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "J Neurosci. 2004 Oct 27;24(43):9648-57",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "15509752"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Free Radic Biol Med. 2005 Jun 15;38(12):1543-52",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "15917183"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Pharmacol Rep. 2005 May-Jun;57(3):307-20",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "15985713"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "APMIS. 2005 Nov-Dec;113(11-12):831-44",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "16480453"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "J Cell Sci. 2006 Jun 1;119(Pt 11):2204-13",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "16684817"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Br J Pharmacol. 2006 Nov;149(5):460-2",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "17001302"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Exp Hematol. 2006 Nov;34(11):1563-72",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "17046576"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "J Biol Chem. 2006 Dec 29;281(52):40154-63",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "17074764"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Biol Cell. 2007 Aug;99(8):455-64",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "17428196"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "J Cell Physiol. 2007 Sep;212(3):702-9",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "17477371"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "J Periodontol. 2007 Jun;78(6):1083-93",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "17539723"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Eur J Biochem. 1991 Dec 5;202(2):217-23",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "1761027"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "J Biol Chem. 2008 Mar 7;283(10):6312-20",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "18174170"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "J Biol Chem. 2008 Nov 28;283(48):33563-8",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "18826942"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Differentiation. 2009 Mar;77(3):221-8",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "19272520"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "PLoS One. 2009;4(4):e5222",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "19370156"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Commun Integr Biol. 2009;2(1):46-9",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "19513264"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Antioxid Redox Signal. 2009 Nov;11(11):2741-58",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "19583492"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Brain Res. 2009 Dec 22;1304:38-48",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "19747902"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Neuron. 2009 Oct 15;64(1):61-78",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "19840550"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "J Neurosci. 2010 Feb 24;30(8):2979-88",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "20181595"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Expert Opin Ther Targets. 2010 Jun;14(6):585-92",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "20433353"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Molecules. 2010 Aug 13;15(8):5581-94",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "20714314"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Clin Exp Metastasis. 2011 Feb;28(2):137-55",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "21194007"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Mol Neurobiol. 2011 Jun;43(3):180-91",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "21271304"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Cell Death Differ. 2011 Nov;18(11):1746-56",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "21566659"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "J Cell Sci. 2011 Jul 15;124(Pt 14):2438-47",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "21693585"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Bioinformatics. 2012 Sep 15;28(18):2404-6",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "22815360"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Neurochem Int. 2012 Dec;61(8):1357-63",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "23036362"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "J Neurosci. 2013 Jan 16;33(3):1179-89",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "23325254"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Biochem Biophys Res Commun. 1990 Aug 31;171(1):480-6",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "2393402"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Stem Cells Dev. 2014 Oct 1;23(19):2311-27",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "24773127"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Int J Stem Cells. 2017 Nov 30;10(2):193-217",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "28844130"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Biochim Biophys Acta. 1989 Feb 24;990(2):211-5",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "2917179"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Brain Res Bull. 1987 Jun;18(6):809-15",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "3040193"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Biochim Biophys Acta. 1988 Nov 23;957(2):286-92",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "3191146"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Brain Res. 1988 Jun 14;452(1-2):329-35",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "3401739"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Proc Natl Acad Sci U S A. 1986 Oct;83(19):7537-41",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "3463983"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "Brain Res Bull. 1995;36(6):593-606",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "7757495"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "J Neurosci. 1994 Mar;14(3 Pt 1):1038-52",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "8120612"
+                        ]
+                    }
+                }, 
+                {
+                    "Citation" : "J Neurosci Res. 1998 Dec 1;54(5):639-54",
+                    "ArticleIdList" : {
+                        "ArticleId" : [ 
+                            "9843155"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    "import-source" : "pubmed21n0977.xml",
+    "last-updated" : ISODate("2021-08-03T09:47:49.512Z")
+}
+
+/* 3 */
+{
+    "_id" : "30977702",
+    "MedlineCitation" : {
+        "PMID" : "30977702",
+        "DateCompleted" : {
+            "Year" : "2021",
+            "Month" : "06",
+            "Day" : "09"
+        },
+        "DateRevised" : {
+            "Year" : "2021",
+            "Month" : "06",
+            "Day" : "09"
+        },
+        "Article" : {
+            "Journal" : {
+                "ISSN" : "1464-5351",
+                "JournalIssue" : {
+                    "Volume" : "22",
+                    "Issue" : "3",
+                    "PubDate" : {
+                        "Year" : "2020",
+                        "Month" : "03"
+                    }
+                },
+                "Title" : "Culture, health & sexuality",
+                "ISOAbbreviation" : "Cult Health Sex"
+            },
+            "ArticleTitle" : "The myth of LGBTQ mobilities: framing the lives of gender- and sexually diverse Australians between regional and urban contexts.",
+            "Pagination" : {
+                "MedlinePgn" : "321-335"
+            },
+            "ArELocationIDticleTitle" : "10.1080/13691058.2019.1600029",
+            "Abstract" : {
+                "AbstractText" : [ 
+                    "Gender- and sexually diverse youth are often represented in popular discourses through concepts of movement and mobility. Conceptual stories of LGBTQ youth transitions to adulthood in particular are marked by narratives of movement from regional (rural and/or small towns) to major urban areas. Although not wholly outside lived experience, a cultural myth that portrays the experience of gender- and sexually diverse young people entering into 'adulthood' via such mobility continues to circulate in scholarship, popular media, personal accounts of coming out, support resources and self-help guidance documents. This paper draws on a recent study of gender and sexual diversity, support and belonging to examine instances of LGBTQ youth mobility in relation to participant interviews and focus groups undertaken in an Australian project examining two generations of sexually diverse subjects' views on growing up, support and belonging. Participants differed generationally in how they experienced mobility from regional to urban settings, demonstrating that contemporary real-world accounts of such mobility are complex, nuanced and diverse and that the felt 'expectation' that one should migrate to a city in order to live a full gender- or sexually diverse life has waned among young people in the more recent generation."
+                ]
+            },
+            "AuthorList" : {
+                "Author" : [ 
+                    {
+                        "AffiliationInfo" : {
+                            "Affiliation" : "School of Social Sciences, The University of Western Australia, Crawley, Western Australia, Australia."
+                        },
+                        "LastName" : "Cover",
+                        "ForeName" : "Rob",
+                        "Initials" : "R",
+                        "Identifier" : "0000-0002-8815-2126"
+                    }, 
+                    {
+                        "AffiliationInfo" : {
+                            "Affiliation" : "School of Sociology, The Australian National University, Canberra, Australian Capital Territory, Australia."
+                        },
+                        "LastName" : "Aggleton",
+                        "ForeName" : "Peter",
+                        "Initials" : "P",
+                        "Identifier" : "0000-0001-5966-4969"
+                    }, 
+                    {
+                        "AffiliationInfo" : {
+                            "Affiliation" : "School of Sociology, The Australian National University, Canberra, Australian Capital Territory, Australia."
+                        },
+                        "LastName" : "Rasmussen",
+                        "ForeName" : "Mary Lou",
+                        "Initials" : "ML"
+                    }, 
+                    {
+                        "AffiliationInfo" : {
+                            "Affiliation" : "School of Communication and Creative Arts, Deakin University, Burwood, Victoria, Australia."
+                        },
+                        "LastName" : "Marshall",
+                        "ForeName" : "Daniel",
+                        "Initials" : "D"
+                    }
+                ]
+            },
+            "Language" : "eng",
+            "PublicationTypeList" : {
+                "PublicationType" : [ 
+                    "Journal Article", 
+                    "Research Support, Non-U.S. Gov't"
+                ]
+            },
+            "ArticleDate" : {
+                "Year" : "2019",
+                "Month" : "04",
+                "Day" : "12"
+            }
+        },
+        "MedlineJournalInfo" : {
+            "Country" : "England",
+            "MedlineTA" : "Cult Health Sex",
+            "NlmUniqueID" : "100883416",
+            "ISSNLinking" : "1369-1058"
+        },
+        "CitationSubset" : [ 
+            "IM"
+        ],
+        "MeshHeadingList" : {
+            "MeshHeading" : [ 
+                {
+                    "DescriptorName" : "Adolescent"
+                }, 
+                {
+                    "DescriptorName" : "Adult"
+                }, 
+                {
+                    "DescriptorName" : "Australia"
+                }, 
+                {
+                    "DescriptorName" : "Female"
+                }, 
+                {
+                    "DescriptorName" : "Focus Groups"
+                }, 
+                {
+                    "DescriptorName" : "Humans"
+                }, 
+                {
+                    "DescriptorName" : "Internet"
+                }, 
+                {
+                    "DescriptorName" : "Interviews as Topic"
+                }, 
+                {
+                    "DescriptorName" : "Male"
+                }, 
+                {
+                    "DescriptorName" : "Mass Media"
+                }, 
+                {
+                    "DescriptorName" : "Rural Population"
+                }, 
+                {
+                    "DescriptorName" : "Sexual Behavior",
+                    "QualifierName" : "psychology"
+                }, 
+                {
+                    "DescriptorName" : "Sexual and Gender Minorities",
+                    "QualifierName" : "psychology"
+                }, 
+                {
+                    "DescriptorName" : "Urban Population"
+                }, 
+                {
+                    "DescriptorName" : "Young Adult"
+                }
+            ]
+        },
+        "KeywordList" : {
+            "Keyword" : [ 
+                "LGBTQ", 
+                "Social generations", 
+                "mobility", 
+                "rural-to-urban migration", 
+                "social support"
+            ]
+        }
+    },
+    "PubmedData" : {
+        "History" : {
+            "PubMedPubDate" : [ 
+                {
+                    "Year" : "2019",
+                    "Month" : "4",
+                    "Day" : "13",
+                    "Hour" : "6",
+                    "Minute" : "0"
+                }, 
+                {
+                    "Year" : "2021",
+                    "Month" : "6",
+                    "Day" : "10",
+                    "Hour" : "6",
+                    "Minute" : "0"
+                }, 
+                {
+                    "Year" : "2019",
+                    "Month" : "4",
+                    "Day" : "13",
+                    "Hour" : "6",
+                    "Minute" : "0"
+                }
+            ]
+        },
+        "PublicationStatus" : "ppublish",
+        "ArticleIdList" : {
+            "ArticleId" : [ 
+                "30977702", 
+                "10.1080/13691058.2019.1600029"
+            ]
+        }
+    },
+    "import-source" : "pubmed21n1301.xml",
+    "last-updated" : ISODate("2021-08-04T02:00:29.417Z")
+}
+
+/* 4 */
+{
+    "_id" : "31575339",
+    "MedlineCitation" : {
+        "PMID" : "31575339",
+        "DateCompleted" : {
+            "Year" : "2019",
+            "Month" : "12",
+            "Day" : "06"
+        },
+        "DateRevised" : {
+            "Year" : "2019",
+            "Month" : "12",
+            "Day" : "17"
+        },
+        "Article" : {
+            "Journal" : {
+                "ISSN" : "1727-9445",
+                "JournalIssue" : {
+                    "Volume" : "18",
+                    "Issue" : "3",
+                    "PubDate" : {
+                        "Year" : "2019",
+                        "Month" : "Sep"
+                    }
+                },
+                "Title" : "African journal of AIDS research : AJAR",
+                "ISOAbbreviation" : "Afr J AIDS Res"
+            },
+            "ArticleTitle" : "Accessing HIV treatment and care services in fishing communities around Lake Victoria in Uganda: mobility and transport challenges.",
+            "Pagination" : {
+                "MedlinePgn" : "205-214"
+            },
+            "ArELocationIDticleTitle" : "10.2989/16085906.2019.1648306",
+            "Abstract" : {
+                "AbstractText" : [ 
+                    "Qualitative research exploring the influence of community-level factors on access to and use of HIV treatment and care services among people living in fishing communities is limited, especially with respect to those already in receipt of HIV care and on treatment. To enhance understanding of these issues, semi-structured in-depth interviews were conducted with 42 HIV-positive fisherfolk and 15 health care providers from two HIV clinics located in two fishing communities in Uganda. Fisherfolk's mobility and poor transport systems were significant barriers to access to and use of HIV treatment and care. Mobility, which involved regular movement between communities, sometimes led to fisherfolk's inability to access HIV treatment and care. A poor transport system in fishing communities - characterised by irregular transport services and boats in a poor condition - was reported to force both fisherfolk and health care providers sometimes to cancel journeys to centres providing treatment and support. Community-level factors such as these, which relate to the organisation and provision of transport in local community settings, are significant influences on access to HIV treatment and care. Interventions that address these challenges are needed to improve access to and use of HIV treatment and care in fishing communities."
+                ]
+            },
+            "AuthorList" : {
+                "Author" : [ 
+                    {
+                        "AffiliationInfo" : {
+                            "Affiliation" : "Department of Sociology and Social Administration, Kyambogo University , Kampala , Uganda."
+                        },
+                        "LastName" : "Tumwine",
+                        "ForeName" : "Christopher",
+                        "Initials" : "C",
+                        "Identifier" : "https://orcid.org/0000-0002-7437-7105"
+                    }, 
+                    {
+                        "AffiliationInfo" : {
+                            "Affiliation" : "Centre for Gender and Global Health, UCL , London , United Kingdom."
+                        },
+                        "LastName" : "Aggleton",
+                        "ForeName" : "Peter",
+                        "Initials" : "P",
+                        "Identifier" : "https://orcid.org/0000-0001-5966-4969"
+                    }, 
+                    {
+                        "AffiliationInfo" : {
+                            "Affiliation" : "Kirby Institute for Infection and Immunity in Society , UNSW Sydney , Australia."
+                        },
+                        "LastName" : "Bell",
+                        "ForeName" : "Stephen",
+                        "Initials" : "S",
+                        "Identifier" : "https://orcid.org/0000-0003-2877-9231"
+                    }
+                ]
+            },
+            "Language" : "eng",
+            "PublicationTypeList" : {
+                "PublicationType" : [ 
+                    "Journal Article"
+                ]
+            }
+        },
+        "MedlineJournalInfo" : {
+            "Country" : "South Africa",
+            "MedlineTA" : "Afr J AIDS Res",
+            "NlmUniqueID" : "101146510",
+            "ISSNLinking" : "1608-5906"
+        },
+        "CitationSubset" : [ 
+            "IM", 
+            "X"
+        ],
+        "MeshHeadingList" : {
+            "MeshHeading" : [ 
+                {
+                    "DescriptorName" : "Adult"
+                }, 
+                {
+                    "DescriptorName" : "Data Collection"
+                }, 
+                {
+                    "DescriptorName" : "Female"
+                }, 
+                {
+                    "DescriptorName" : "HIV"
+                }, 
+                {
+                    "DescriptorName" : "HIV Infections",
+                    "QualifierName" : "drug therapy"
+                }, 
+                {
+                    "DescriptorName" : "Health Services Accessibility",
+                    "QualifierName" : "statistics & numerical data"
+                }, 
+                {
+                    "DescriptorName" : "Humans"
+                }, 
+                {
+                    "DescriptorName" : "Lakes"
+                }, 
+                {
+                    "DescriptorName" : "Male"
+                }, 
+                {
+                    "DescriptorName" : "Qualitative Research"
+                }, 
+                {
+                    "DescriptorName" : "Transportation",
+                    "QualifierName" : "statistics & numerical data"
+                }, 
+                {
+                    "DescriptorName" : "Uganda"
+                }
+            ]
+        },
+        "KeywordList" : {
+            "Keyword" : [ 
+                "fisherfolk", 
+                "qualitative", 
+                "socio-ecological model", 
+                "vulnerability"
+            ]
+        }
+    },
+    "PubmedData" : {
+        "History" : {
+            "PubMedPubDate" : [ 
+                {
+                    "Year" : "2019",
+                    "Month" : "10",
+                    "Day" : "3",
+                    "Hour" : "6",
+                    "Minute" : "0"
+                }, 
+                {
+                    "Year" : "2019",
+                    "Month" : "10",
+                    "Day" : "3",
+                    "Hour" : "6",
+                    "Minute" : "0"
+                }, 
+                {
+                    "Year" : "2019",
+                    "Month" : "12",
+                    "Day" : "18",
+                    "Hour" : "6",
+                    "Minute" : "0"
+                }
+            ]
+        },
+        "PublicationStatus" : "ppublish",
+        "ArticleIdList" : {
+            "ArticleId" : [ 
+                "31575339", 
+                "10.2989/16085906.2019.1648306"
+            ]
+        }
+    },
+    "import-source" : "pubmed21n1006.xml",
+    "last-updated" : ISODate("2021-08-03T10:29:34.194Z")
+}
+
+/* 5 */
+{
+    "_id" : "34018906",
+    "MedlineCitation" : {
+        "PMID" : "34018906",
+        "DateRevised" : {
+            "Year" : "2021",
+            "Month" : "06",
+            "Day" : "17"
+        },
+        "Article" : {
+            "Journal" : {
+                "ISSN" : "1446-1242",
+                "JournalIssue" : {
+                    "Volume" : "30",
+                    "Issue" : "2",
+                    "PubDate" : {
+                        "Year" : "2021",
+                        "Month" : "Jul"
+                    }
+                },
+                "Title" : "Health sociology review : the journal of the Health Section of the Australian Sociological Association",
+                "ISOAbbreviation" : "Health Sociol Rev"
+            },
+            "ArticleTitle" : "Men and masculinities in qualitative research on vasectomy: perpetuation or progress?",
+            "Pagination" : {
+                "MedlinePgn" : "127-142"
+            },
+            "ArELocationIDticleTitle" : "10.1080/14461242.2020.1789486",
+            "Abstract" : {
+                "AbstractText" : [ 
+                    "Although vasectomy is a safe and highly effective method of contraception, uptake is variable globally, with scope for increased engagement in high income nations. Very little qualitative research has been published in recent years to explore men's perspectives on vasectomy, which represents a key opportunity to better understand and strengthen men's contribution to reproductive and contraception equality. This paper takes a scoping review approach to identify key findings from the small but important body of qualitative literature. Recent masculinities research argues that, despite some expansion in ways of being masculine, an underpinning ethos of "
+                ]
+            },
+            "AuthorList" : {
+                "Author" : [ 
+                    {
+                        "AffiliationInfo" : {
+                            "Affiliation" : "Genders and Sexualities / Sociology, Western Sydney University, Sydney, Australia."
+                        },
+                        "LastName" : "Nicholas",
+                        "ForeName" : "Lucy",
+                        "Initials" : "L",
+                        "Identifier" : "https://orcid.org/0000-0001-7432-1526"
+                    }, 
+                    {
+                        "AffiliationInfo" : {
+                            "Affiliation" : "Centre for Social Research in Health, UNSW Sydney, Australia."
+                        },
+                        "LastName" : "Newman",
+                        "ForeName" : "Christy E",
+                        "Initials" : "CE",
+                        "Identifier" : "https://orcid.org/0000-0002-5482-2822"
+                    }, 
+                    {
+                        "AffiliationInfo" : {
+                            "Affiliation" : "Family Planning NSW, Ashfield, Australia."
+                        },
+                        "LastName" : "Botfield",
+                        "ForeName" : "Jessica R",
+                        "Initials" : "JR",
+                        "Identifier" : "https://orcid.org/0000-0001-6157-9739"
+                    }, 
+                    {
+                        "AffiliationInfo" : {
+                            "Affiliation" : "Centre for Person Centred Research, Auckland University of Technology, Auckland, New Zealand."
+                        },
+                        "LastName" : "Terry",
+                        "ForeName" : "Gareth",
+                        "Initials" : "G",
+                        "Identifier" : "https://orcid.org/0000-0002-6377-6194"
+                    }, 
+                    {
+                        "AffiliationInfo" : {
+                            "Affiliation" : "Family Planning NSW, Ashfield, Australia."
+                        },
+                        "LastName" : "Bateson",
+                        "ForeName" : "Deborah",
+                        "Initials" : "D",
+                        "Identifier" : "https://orcid.org/0000-0003-1035-7110"
+                    }, 
+                    {
+                        "AffiliationInfo" : {
+                            "Affiliation" : "Centre for Gender and Global Health, UCL, London, UK."
+                        },
+                        "LastName" : "Aggleton",
+                        "ForeName" : "Peter",
+                        "Initials" : "P",
+                        "Identifier" : "https://orcid.org/0000-0001-5966-4969"
+                    }
+                ]
+            },
+            "Language" : "eng",
+            "PublicationTypeList" : {
+                "PublicationType" : [ 
+                    "Journal Article"
+                ]
+            },
+            "ArticleDate" : {
+                "Year" : "2020",
+                "Month" : "07",
+                "Day" : "13"
+            }
+        },
+        "MedlineJournalInfo" : {
+            "Country" : "United States",
+            "MedlineTA" : "Health Sociol Rev",
+            "NlmUniqueID" : "101156268",
+            "ISSNLinking" : "1446-1242"
+        },
+        "CitationSubset" : [ 
+            "H", 
+            "IM"
+        ],
+        "KeywordList" : {
+            "Keyword" : [ 
+                "Vasectomy", 
+                "contraception", 
+                "masculinity", 
+                "qualitative research"
+            ]
+        }
+    },
+    "PubmedData" : {
+        "History" : {
+            "PubMedPubDate" : [ 
+                {
+                    "Year" : "2021",
+                    "Month" : "5",
+                    "Day" : "22",
+                    "Hour" : "6",
+                    "Minute" : "0"
+                }, 
+                {
+                    "Year" : "2021",
+                    "Month" : "5",
+                    "Day" : "22",
+                    "Hour" : "6",
+                    "Minute" : "0"
+                }, 
+                {
+                    "Year" : "2021",
+                    "Month" : "5",
+                    "Day" : "21",
+                    "Hour" : "12",
+                    "Minute" : "16"
+                }
+            ]
+        },
+        "PublicationStatus" : "ppublish",
+        "ArticleIdList" : {
+            "ArticleId" : [ 
+                "34018906", 
+                "10.1080/14461242.2020.1789486"
+            ]
+        }
+    },
+    "import-source" : "pubmed21n1309.xml",
+    "last-updated" : ISODate("2021-08-04T02:30:24.025Z")
+}
